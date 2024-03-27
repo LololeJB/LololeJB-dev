@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LololeJB-dev/static/css/main.e191f3c1.css",
+    "main.js": "/LololeJB-dev/static/js/main.1cc3f68a.js",
+    "static/js/453.a780f144.chunk.js": "/LololeJB-dev/static/js/453.a780f144.chunk.js",
+    "index.html": "/LololeJB-dev/index.html",
+    "main.e191f3c1.css.map": "/LololeJB-dev/static/css/main.e191f3c1.css.map",
+    "main.1cc3f68a.js.map": "/LololeJB-dev/static/js/main.1cc3f68a.js.map",
+    "453.a780f144.chunk.js.map": "/LololeJB-dev/static/js/453.a780f144.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e191f3c1.css",
+    "static/js/main.1cc3f68a.js"
+  ]
+}
